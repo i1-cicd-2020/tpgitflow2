@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
         // Hello world
-        System.out.println( "CICD rocks!" );
+        System.out.println( "CICD rocks in Jenkins!" );
     }
 }
